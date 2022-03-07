@@ -7,7 +7,7 @@ Displayed below is the landing page of my portfolio:
 ![Middle section of landing page](Assets\css\images\portfolio-site-middle-screenshot.png)
 ![Bottom section of landing page](Assets\css\images\portfolio-site-bottom-screenshot.png)
 
-You can reach my repo [here](https://github.com/kolatham/K.-Olivia-Latham-Portfolio) and you can reach the deployed application [here](https://kolatham.github.io/Personal_Portfolio/)
+You can reach my repo [here](https://github.com/kolatham/K.-Olivia-Latham-Portfolio) and you can reach the deployed application [here](https://kolatham.github.io/K.-Olivia-Latham-Portfolio/)
 
 
 My contact information is kolatham96@gmail.com. You may reach me from 8-6 all days of the week through this channel. 
